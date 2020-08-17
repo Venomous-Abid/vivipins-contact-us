@@ -41,6 +41,8 @@ body {
 	line-height: 0.7;
 	font-size: 0.8em;
 	margin-top: -0.8em;
+	color: #000;
+	font-weight: 200;
 }
 
 .submitbtn {
@@ -53,6 +55,7 @@ body {
     box-shadow: 0 -3px 0 0 #26653A inset, 0 2px 3px 0 rgba(0,0,0,.1);
     text-shadow: 1px 1px 0 rgba(0,0,0,.05);
     padding-top: 14px;
+   	margin-left: -30px;
     padding-bottom: 14px;
     font-size: 110%;
 
@@ -62,6 +65,11 @@ body {
 	font-weight: 600;
 	font-size: 24px;
 	color: #666666;
+	padding-top: 100px;
+}
+
+.image-size {
+	width: 150px;
 }
 
 .wrap-input100 {
@@ -82,6 +90,28 @@ body {
   margin-right: 40px;
   text-align: left;
   background-color: #F8F8F8;
+}
+
+.compani {
+	font-family: 'Roboto', sans-serif;
+}
+
+.compani-area {
+	box-shadow: 5px 8px 18px #888888;
+}
+
+.compani-head-text {
+	font-size: 16px;
+	font-weight: 600;
+	padding-top: 20px;
+	color: #025FE3;
+}
+
+.compani-para-text {
+	font-size: 14px;
+	font-weight: 400;
+	color: #025FE3;
+	line-height: 0.7em;
 }
 
 .input100 {
