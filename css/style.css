@@ -28,6 +28,33 @@ body {
 	text-align: left;
 }
 
+.upload-text {
+	line-height: 0.7;
+	font-size: 0.8em;
+	padding-top: 4px;
+}
+
+.upload-text-semi {
+	line-height: 0.7;
+	font-size: 0.8em;
+	margin-top: -0.8em;
+}
+
+.submitbtn {
+	width: 690px;	
+	color: #fff;
+    border: 0 none transparent;
+    border-radius: 2px;
+    background-color: #40A960;
+    -webkit-box-shadow: 0 -3px 0 0 #26653A inset, 0 2px 3px 0 rgba(0,0,0,.1);
+    box-shadow: 0 -3px 0 0 #26653A inset, 0 2px 3px 0 rgba(0,0,0,.1);
+    text-shadow: 1px 1px 0 rgba(0,0,0,.05);
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-size: 110%;
+
+}
+
 .wrap-input100 {
   width: 40%;
   position: relative;
